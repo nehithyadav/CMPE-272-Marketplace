@@ -1,2 +1,2 @@
 # CMPE-272-Project
- Marketplace with Entertainment, Services and Fashion
+ Marketplace with Entertainment, Dental and Fashion
